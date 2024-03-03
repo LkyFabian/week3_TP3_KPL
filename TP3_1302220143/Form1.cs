@@ -52,5 +52,10 @@ namespace TP3_1302220143
             string namaPraktikan = textBox1.Text;
             label1.Text = "halo" + namaPraktikan;
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
